@@ -1,0 +1,25 @@
+header#document-header
+  position: absolute
+  @include media-breakpoint-up(desktop)
+    nav.primary-menu 
+      > .container
+        flex-direction: column
+        gap: $spacing-4
+.hero
+    background-image: url(/assets/images/background.png)
+    background-size: contain
+    background-repeat: no-repeat
+    background-position: 100% 130%
+footer#document-footer
+    .footer-site
+        display: none
+    @include media-breakpoint-up(desktop)
+        .container
+            justify-content: center
+        .footer-legals
+            .footer-credit,
+            .nav-legal li,
+            .nav-legal 
+                display: inline-block
+            .nav-legal li
+                margin-right: $spacing-3
