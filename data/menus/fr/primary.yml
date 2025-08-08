@@ -1,0 +1,18 @@
+---
+title: Menu principal
+items:
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
+- title: Concept
+  target: "/concept/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/concept"
+  file: content/fr/pages/concept/_index.html
+
