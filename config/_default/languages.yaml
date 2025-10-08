@@ -9,6 +9,23 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@frenchcraftguild.fr
+          value: >-
+            mailto:contact@frenchcraftguild.fr
+      social_networks:
+        instagram:
+          label: >-
+            frenchcraftguild
+          value: >-
+            https://instagram.com/frenchcraftguild
+        linkedin:
+          label: >-
+            french-craft-guild
+          value: >-
+            https://www.linkedin.com/company/french-craft-guild/
 
   taxonomies:
     administrator: administrators
