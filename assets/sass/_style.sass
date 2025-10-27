@@ -13,18 +13,33 @@ header#document-header
     @include media-breakpoint-up(desktop)
         background-size: 600px
         background-position: 54% -100px
-.organizations.grid.with-summaries
+.organizations
     .organization
-        .organization-content
-            .organization-title
-                line-height: 100%
-                margin-bottom: $spacing-2
-.organization
-    .media
-        background: none
-        padding: 0
-        figure, picture
-            display: inline
+        .media
+            img
+                mix-blend-mode: multiply
+    &.grid.with-summaries
+        .organization
+            .organization-content
+                .organization-title
+                    line-height: 100%
+                    margin-bottom: $spacing-2
+            .media
+                background: none
+                padding: 0
+                figure, picture
+                    display: inline
+.blocks
+    .block-organizations
+        &--large
+            .organization
+                @include media-breakpoint-up(desktop)
+                    padding-bottom: $grid-gutter
+                .media
+                    @include media-breakpoint-up(desktop)
+                        background: none
+                        padding: 0
+                        width: columns(3)
 footer#document-footer
     .footer-site
         display: none
