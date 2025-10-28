@@ -13,3 +13,6 @@ params:
   logo:
     header: '/assets/images/logo-blanc.svg'
     footer: '/assets/images/logo-french-craft.svg'
+  home:
+    head:
+      title: site
