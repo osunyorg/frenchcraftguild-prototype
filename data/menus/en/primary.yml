@@ -1,0 +1,18 @@
+---
+title: Menu principal
+items:
+- title: About
+  target: "/en/about/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/about"
+  file: content/en/pages/about/_index.html
+- title: Concept
+  target: "/en/concept/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/concept"
+  file: content/en/pages/concept/_index.html
+
