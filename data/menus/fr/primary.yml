@@ -2,14 +2,14 @@
 title: Menu principal
 items:
 - title: À propos
-  target: "/a-propos/"
+  target: "/fr/a-propos/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Concept
-  target: "/concept/"
+  target: "/fr/concept/"
   kind: page
   new_tab: false
   children: []
