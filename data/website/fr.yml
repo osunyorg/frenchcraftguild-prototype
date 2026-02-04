@@ -4,8 +4,41 @@ default:
   shared_image:
     id: 0ea0fc3d-885a-434f-bb81-3a93ad02c309
 contents_reading_time:
-  seconds: 0
+  seconds: 8
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: call_to_action
+    title: >-
+      Ne ratez aucune info !
+    slug: >-
+      ne-ratez-aucune-info
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Ne ratez aucune info !
+        heading: 2
+      description: >-
+        <p>Inscrivez-vous à la newsletter de la French Craft pour recevoir les dernières actualités et nouveautés.  </p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>Inscrivez-vous à la newsletter de la French Craft pour recevoir les dernières actualités et nouveautés.  </p>
+
+
+      buttons:
+        - title: >-
+            S'inscrire à la newsletter
+
+          url: >-
+            https://mailchi.mp/abc3f974d33b/letskeepinfrenchtouch
+
+          target_blank: true
+
+
 
