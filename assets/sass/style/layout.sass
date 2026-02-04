@@ -22,7 +22,7 @@ header#document-header
             background: $color-accent
             padding: space() space(2)
             border-radius: 3px
-            
+
 @include media-breakpoint-down(desktop)
     .hero + .breadcrumb-container
         margin-top: 0
@@ -31,3 +31,11 @@ header#document-header
     li
         .name
             color: $color-accent
+
+footer#document-footer
+    .footer-i18n
+        display: none !important
+    @include media-breakpoint-up(desktop)
+        .container
+            + .container
+                justify-content: space-between
