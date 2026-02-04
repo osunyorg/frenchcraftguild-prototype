@@ -1,0 +1,33 @@
+header#document-header
+    .search-button
+        color: inherit !important
+.hero
+    background-image: url(/assets/images/background-small.png)
+    background-size: 300px
+    background-repeat: no-repeat
+    background-position: -50px 0px
+    @include media-breakpoint-up(desktop)
+        background-size: 600px
+        background-position: 54% -100px
+
+.hero
+    .content
+        h1
+            > span
+                color: $color-dark-grey
+.event .event-categories,
+.taxonomies-single
+        a
+            color: white !important
+            background: $color-accent
+            padding: space() space(2)
+            border-radius: 3px
+            
+@include media-breakpoint-down(desktop)
+    .hero + .breadcrumb-container
+        margin-top: 0
+
+.block-features
+    li
+        .name
+            color: $color-accent

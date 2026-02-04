@@ -1,0 +1,14 @@
+.page__home
+    .hero-text
+        p
+            margin-top: 0
+        @include media-breakpoint-up(desktop)
+            text-align: center
+            width: 100%
+            p
+                display: inline-block
+                + p
+                    margin-left: $spacing-2
+                    &::before
+                        content: "—"
+                        margin-right: $spacing-2
