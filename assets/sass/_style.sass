@@ -1,3 +1,6 @@
+header#document-header
+    .search-button
+        color: inherit !important
 .hero
     background-image: url(/assets/images/background-small.png)
     background-size: 300px
@@ -20,6 +23,23 @@
                     &::before
                         content: "—"
                         margin-right: $spacing-2
+.hero
+    .content
+        h1
+            > span
+                color: $color-dark-grey
+.event .event-categories,
+.taxonomies-single
+        a
+            color: white !important
+            background: $color-accent
+            padding: space() space(2)
+            border-radius: 3px
+            
+@include media-breakpoint-down(desktop)
+    .hero + .breadcrumb-container
+        margin-top: 0
+
 .organizations
     .organization
         .media
@@ -53,6 +73,3 @@
                     picture.is-svg
                         img
                             object-position: top
-header#document-header
-    .search-button
-        color: inherit !important

@@ -16,3 +16,15 @@ params:
   home:
     head:
       title: site
+  events:
+    index:
+      per_page: 36
+  share_links:
+    enabled: true
+    email: true
+    facebook: false
+    linkedin: true
+    mastodon: false
+    telegram: false
+    twitter: false
+    whatsapp: false
