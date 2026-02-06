@@ -30,14 +30,12 @@ contents:
       text: >-
         <p>Inscrivez-vous à la newsletter de la French Craft pour recevoir les dernières actualités et nouveautés.  </p>
 
-
       buttons:
-        - title: >-
+        - 
+          title: >-
             S'inscrire à la newsletter
-
           url: >-
             https://mailchi.mp/abc3f974d33b/letskeepinfrenchtouch
-
           target_blank: true
 
 
