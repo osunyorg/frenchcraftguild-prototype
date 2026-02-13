@@ -2,17 +2,21 @@
 title: Menu principal
 items:
 - title: About
+  slug: about
   target: "/en/about/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Concept
+  slug: concept
   target: "/en/concept/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/concept"
   file: content/en/pages/concept/_index.html
 
