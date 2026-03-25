@@ -69,6 +69,11 @@ fr:
             french-craft-guild
           value: >-
             https://www.linkedin.com/company/french-craft-guild/
+        youtube:
+          label: >-
+            frenchcraftguild
+          value: >-
+            https://www.youtube.com/@frenchcraftguild
 
   taxonomies:
     administrator: administrators
