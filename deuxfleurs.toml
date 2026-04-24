@@ -15,234 +15,234 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/fr/programme/2026/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie-1/"
+from = "/fr/programme/2026/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie-1/index.html"
 to = "/fr/programme/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
 
 [[redirects]]
-from = "/organisations/manufactures-nationales/"
+from = "/organisations/manufactures-nationales/index.html"
 to = "/fr/organisations/manufactures-nationales/"
 
 [[redirects]]
-from = "/organisations/categories/membres/"
+from = "/organisations/categories/membres/index.html"
 to = "/fr/organisations/categories/membres/"
 
 [[redirects]]
-from = "/en/organizations/atelier-steven-leprize-arca/"
+from = "/en/organizations/atelier-steven-leprize-arca/index.html"
 to = "/en/organizations/atelier-steven-leprize/"
 
 [[redirects]]
-from = "/lieu/"
+from = "/lieu/index.html"
 to = "/fr/lieu/"
 
 [[redirects]]
-from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-presentation-sur-le-dispositif-cima-et-sa-mise-en-oeuvre/"
+from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-presentation-sur-le-dispositif-cima-et-sa-mise-en-oeuvre/index.html"
 to = "/fr/programme/2026/cima-aider-l-excellence-artisanale/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/fr/equipe/"
 
 [[redirects]]
-from = "/organisations/cogitech/"
+from = "/organisations/cogitech/index.html"
 to = "/fr/organisations/cogitech/"
 
 [[redirects]]
-from = "/nos-partenaires-et-soutiens/"
+from = "/nos-partenaires-et-soutiens/index.html"
 to = "/fr/nos-partenaires-et-soutiens/"
 
 [[redirects]]
-from = "/programme/tables-rondes/"
+from = "/programme/tables-rondes/index.html"
 to = "/fr/programme/tables-rondes/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/fr/programme/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/"
+from = "/expositions/archives-expositions/index.html"
 to = "/fr/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-1/"
+from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-1/index.html"
 to = "/fr/programme/2026/cir-et-cii-booster-vos-innovations/"
 
 [[redirects]]
-from = "/organisations/procedes-chenel-international/"
+from = "/organisations/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/organisations/nosqua/"
+from = "/organisations/nosqua/index.html"
 to = "/fr/organisations/nosqua/"
 
 [[redirects]]
-from = "/fr/programme/2026/prototypes-augmentes-1/"
+from = "/fr/programme/2026/prototypes-augmentes-1/index.html"
 to = "/fr/programme/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/"
 
 [[redirects]]
-from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques-1/"
+from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques-1/index.html"
 to = "/fr/programme/2026/campus-mana-l-antichambre-des-metiers-d-art/"
 
 [[redirects]]
-from = "/organisations/jauh/"
+from = "/organisations/jauh/index.html"
 to = "/fr/organisations/jauh/"
 
 [[redirects]]
-from = "/organisations/daumet/"
+from = "/organisations/daumet/index.html"
 to = "/fr/organisations/daumet/"
 
 [[redirects]]
-from = "/fr/organisations/atelier-steven-leprize-arca/"
+from = "/fr/organisations/atelier-steven-leprize-arca/index.html"
 to = "/fr/organisations/atelier-steven-leprize/"
 
 [[redirects]]
-from = "/organisations/categories/partenaires/"
+from = "/organisations/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
 
 [[redirects]]
-from = "/organisations/big-bang-project/"
+from = "/organisations/big-bang-project/index.html"
 to = "/fr/organisations/big-bang-project/"
 
 [[redirects]]
-from = "/fr/programme/2026/les-manufactures-nationales-la-tradition-de-linnovation-1/"
+from = "/fr/programme/2026/les-manufactures-nationales-la-tradition-de-linnovation-1/index.html"
 to = "/fr/programme/2026/les-epv-innovantes-comment-materialiser-la-recherche/"
 
 [[redirects]]
-from = "/organisations/luxdawn/"
+from = "/organisations/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/en/organizations/atelier-lumierrante/"
+from = "/en/organizations/atelier-lumierrante/index.html"
 to = "/en/organizations/lumierrante/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/en/organizations/luxdawn/"
+from = "/en/organizations/luxdawn/index.html"
 to = "/en/organizations/lyse-drouaine/"
 
 [[redirects]]
-from = "/agenda/conferences/"
+from = "/agenda/conferences/index.html"
 to = "/fr/programme/conferences/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/organisations/societe-dencouragement-pour-lindustrie-nationale/"
+from = "/organisations/societe-dencouragement-pour-lindustrie-nationale/index.html"
 to = "/fr/organisations/societe-dencouragement-pour-lindustrie-nationale/"
 
 [[redirects]]
-from = "/organisations/senequier/"
+from = "/organisations/senequier/index.html"
 to = "/fr/organisations/senequier/"
 
 [[redirects]]
-from = "/concept/"
+from = "/concept/index.html"
 to = "/fr/concept/"
 
 [[redirects]]
-from = "/fr/programme/2026/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique-1/"
+from = "/fr/programme/2026/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique-1/index.html"
 to = "/fr/programme/2026/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
 
 [[redirects]]
-from = "/organisations/lily-latifi/"
+from = "/organisations/lily-latifi/index.html"
 to = "/fr/organisations/lily-latifi/"
 
 [[redirects]]
-from = "/organisations/categories/exposant-prototypes/"
+from = "/organisations/categories/exposant-prototypes/index.html"
 to = "/fr/organisations/categories/exposant-prototypes/"
 
 [[redirects]]
-from = "/un-lieu-symbolique/"
+from = "/un-lieu-symbolique/index.html"
 to = "/fr/lieu/"
 
 [[redirects]]
-from = "/agenda/workshops/"
+from = "/agenda/workshops/index.html"
 to = "/fr/programme/workshops/"
 
 [[redirects]]
-from = "/programme/workshops/"
+from = "/programme/workshops/index.html"
 to = "/fr/programme/workshops/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/organisations/rinck/"
+from = "/organisations/rinck/index.html"
 to = "/fr/organisations/rinck/"
 
 [[redirects]]
-from = "/organisations/caroline-besse/"
+from = "/organisations/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
 [[redirects]]
-from = "/organisations/campus-versailles/"
+from = "/organisations/campus-versailles/index.html"
 to = "/fr/organisations/campus-versailles/"
 
 [[redirects]]
-from = "/expositions/"
+from = "/expositions/index.html"
 to = "/fr/expositions/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/organisations/reseau-excellence-epv/"
+from = "/organisations/reseau-excellence-epv/index.html"
 to = "/fr/organisations/reseau-excellence-epv/"
 
 [[redirects]]
-from = "/exposants/"
+from = "/exposants/index.html"
 to = "/fr/exposants/"
 
 [[redirects]]
-from = "/organisations/gainerie-91/"
+from = "/organisations/gainerie-91/index.html"
 to = "/fr/organisations/gainerie-91/"
 
 [[redirects]]
-from = "/fr/organisations/atelier-lumierrante/"
+from = "/fr/organisations/atelier-lumierrante/index.html"
 to = "/fr/organisations/lumierrante/"
 
 [[redirects]]
-from = "/organisations/odp/"
+from = "/organisations/odp/index.html"
 to = "/fr/organisations/odp/"
 
 [[redirects]]
-from = "/programme/conferences/"
+from = "/programme/conferences/index.html"
 to = "/fr/programme/conferences/"
 
 [[redirects]]
-from = "/a-propos/"
+from = "/a-propos/index.html"
 to = "/fr/a-propos/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/organisations/milodina/"
+from = "/organisations/milodina/index.html"
 to = "/fr/organisations/milodina/"
 
 [[redirects]]
-from = "/agenda/tables-rondes/"
+from = "/agenda/tables-rondes/index.html"
 to = "/fr/programme/tables-rondes/"
 
 [[redirects]]
-from = "/fr/organisations/luxdawn/"
+from = "/fr/organisations/luxdawn/index.html"
 to = "/fr/organisations/lyse-drouaine/"
 
 [[redirects]]
-from = "/organisations/kramer-groupe/"
+from = "/organisations/kramer-groupe/index.html"
 to = "/fr/organisations/kramer-groupe/"
 
