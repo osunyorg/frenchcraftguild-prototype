@@ -16,7 +16,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/fr/programme/2026/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie-1/index.html"
-to = "/fr/programme/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
+to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
 
 [[redirects]]
 from = "/organisations/manufactures-nationales/index.html"
@@ -84,7 +84,7 @@ to = "/fr/expositions/archives-expositions/"
 
 [[redirects]]
 from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-1/index.html"
-to = "/fr/editions/2026/cir-et-cii-booster-vos-innovations/"
+to = "/fr/editions/2026/prototype-1/cir-et-cii-booster-vos-innovations/"
 
 [[redirects]]
 from = "/organisations/procedes-chenel-international/index.html"
@@ -108,11 +108,11 @@ to = "/fr/editions/2027/prototype-2/"
 
 [[redirects]]
 from = "/fr/programme/2026/prototypes-augmentes-1/index.html"
-to = "/fr/programme/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/"
+to = "/fr/editions/2026/prototype-1/debat-ethique-de-l-ia-dans-le-processus-creatif/"
 
 [[redirects]]
 from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques-1/index.html"
-to = "/fr/programme/2026/campus-mana-l-antichambre-des-metiers-d-art/"
+to = "/fr/editions/2026/prototype-1/campus-mana-l-antichambre-des-metiers-d-art/"
 
 [[redirects]]
 from = "/fr/programme/2026/prototype-1/index.html"
@@ -211,12 +211,20 @@ from = "/organisations/lily-latifi/index.html"
 to = "/fr/organisations/lily-latifi/"
 
 [[redirects]]
+from = "/fr/programme/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/index.html"
+to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
+
+[[redirects]]
 from = "/organisations/categories/exposant-prototypes/index.html"
 to = "/fr/organisations/categories/exposant-prototypes/"
 
 [[redirects]]
 from = "/un-lieu-symbolique/index.html"
 to = "/fr/lieu/"
+
+[[redirects]]
+from = "/fr/programme/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/index.html"
+to = "/fr/editions/2026/prototype-1/debat-ethique-de-l-ia-dans-le-processus-creatif/"
 
 [[redirects]]
 from = "/agenda/workshops/index.html"
@@ -259,8 +267,16 @@ from = "/organisations/index.html"
 to = "/fr/organisations/"
 
 [[redirects]]
+from = "/fr/editions/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/index.html"
+to = "/fr/editions/2026/prototype-1/debat-ethique-de-l-ia-dans-le-processus-creatif/"
+
+[[redirects]]
 from = "/organisations/reseau-excellence-epv/index.html"
 to = "/fr/organisations/reseau-excellence-epv/"
+
+[[redirects]]
+from = "/fr/editions/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/index.html"
+to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
 
 [[redirects]]
 from = "/exposants/index.html"
@@ -273,6 +289,10 @@ to = "/fr/organisations/gainerie-91/"
 [[redirects]]
 from = "/fr/organisations/atelier-lumierrante/index.html"
 to = "/fr/organisations/lumierrante/"
+
+[[redirects]]
+from = "/fr/programme/2026/campus-mana-l-antichambre-des-metiers-d-art/index.html"
+to = "/fr/editions/2026/prototype-1/campus-mana-l-antichambre-des-metiers-d-art/"
 
 [[redirects]]
 from = "/organisations/odp/index.html"
@@ -317,6 +337,18 @@ to = "/fr/organisations/lyse-drouaine/"
 [[redirects]]
 from = "/organisations/kramer-groupe/index.html"
 to = "/fr/organisations/kramer-groupe/"
+
+[[redirects]]
+from = "/fr/editions/2026/campus-mana-l-antichambre-des-metiers-d-art/index.html"
+to = "/fr/editions/2026/prototype-1/campus-mana-l-antichambre-des-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/programme/2026/cir-et-cii-booster-vos-innovations/index.html"
+to = "/fr/editions/2026/prototype-1/cir-et-cii-booster-vos-innovations/"
+
+[[redirects]]
+from = "/fr/editions/2026/cir-et-cii-booster-vos-innovations/index.html"
+to = "/fr/editions/2026/prototype-1/cir-et-cii-booster-vos-innovations/"
 
 [[redirects]]
 from = "/fr/programme/2026/07/index.html"
