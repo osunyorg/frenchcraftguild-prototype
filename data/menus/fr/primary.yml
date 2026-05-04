@@ -17,11 +17,4 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Programme
-  slug: programme
-  target: "/fr/editions/2027/prototype-2/"
-  kind: url
-  new_tab: false
-  children: []
-  descendants_targets: []
 
