@@ -31,12 +31,16 @@ from = "/en/organizations/atelier-steven-leprize-arca/index.html"
 to = "/en/organizations/atelier-steven-leprize/"
 
 [[redirects]]
+from = "/fr/programme/2026/prototypes-augmentes/index.html"
+to = "/fr/editions/2026/prototype-1/prototypes-augmentes/"
+
+[[redirects]]
 from = "/lieu/index.html"
 to = "/fr/lieu/"
 
 [[redirects]]
 from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-presentation-sur-le-dispositif-cima-et-sa-mise-en-oeuvre/index.html"
-to = "/fr/editions/2026/cima-aider-l-excellence-artisanale/"
+to = "/fr/editions/2026/prototype-1/cima-aider-l-excellence-artisanale/"
 
 [[redirects]]
 from = "/equipe/index.html"
@@ -87,8 +91,16 @@ from = "/fr/programme/2026/cima-aider-l-excellence-artisanale-1/index.html"
 to = "/fr/editions/2026/prototype-1/cir-et-cii-booster-vos-innovations/"
 
 [[redirects]]
+from = "/fr/editions/2026/prototypes-augmentes/index.html"
+to = "/fr/editions/2026/prototype-1/prototypes-augmentes/"
+
+[[redirects]]
 from = "/organisations/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
+
+[[redirects]]
+from = "/fr/editions/2026/cima-aider-l-excellence-artisanale/index.html"
+to = "/fr/editions/2026/prototype-1/cima-aider-l-excellence-artisanale/"
 
 [[redirects]]
 from = "/politique-de-confidentialite/index.html"
@@ -140,7 +152,7 @@ to = "/fr/organisations/big-bang-project/"
 
 [[redirects]]
 from = "/fr/programme/2026/les-manufactures-nationales-la-tradition-de-linnovation-1/index.html"
-to = "/fr/editions/2026/les-epv-innovantes-comment-materialiser-la-recherche/"
+to = "/fr/editions/2026/prototype-1/les-epv-innovantes-comment-materialiser-la-recherche/"
 
 [[redirects]]
 from = "/organisations/luxdawn/index.html"
@@ -167,16 +179,32 @@ from = "/fr/programme/2026/09/index.html"
 to = "/fr/editions/2026/09/"
 
 [[redirects]]
+from = "/fr/programme/2026/les-manufactures-nationales-la-tradition-de-linnovation/index.html"
+to = "/fr/editions/2026/prototype-1/les-manufactures-nationales-la-tradition-de-linnovation/"
+
+[[redirects]]
 from = "/fr/programme/workshops/index.html"
 to = "/fr/editions/workshops/"
+
+[[redirects]]
+from = "/fr/editions/2026/campus-versailles-prototypes-pedagogiques/index.html"
+to = "/fr/editions/2026/prototype-1/campus-versailles-prototypes-pedagogiques/"
 
 [[redirects]]
 from = "/en/organizations/luxdawn/index.html"
 to = "/en/organizations/lyse-drouaine/"
 
 [[redirects]]
+from = "/fr/editions/2026/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie/index.html"
+to = "/fr/editions/2026/prototype-1/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie/"
+
+[[redirects]]
 from = "/agenda/conferences/index.html"
 to = "/fr/editions/conferences/"
+
+[[redirects]]
+from = "/fr/programme/2026/du-prototype-au-marche-comment-croitre-sans-se-renier/index.html"
+to = "/fr/editions/2026/prototype-1/du-prototype-au-marche-comment-croitre-sans-se-renier/"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
@@ -185,6 +213,10 @@ to = "/fr/equipe/equipe-editoriale/"
 [[redirects]]
 from = "/fr/programme/2026/index.html"
 to = "/fr/editions/2026/"
+
+[[redirects]]
+from = "/fr/programme/2026/cima-aider-l-excellence-artisanale/index.html"
+to = "/fr/editions/2026/prototype-1/cima-aider-l-excellence-artisanale/"
 
 [[redirects]]
 from = "/fr/programme/2026/06/index.html"
@@ -204,11 +236,15 @@ to = "/fr/concept/"
 
 [[redirects]]
 from = "/fr/programme/2026/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique-1/index.html"
-to = "/fr/programme/2026/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
+to = "/fr/editions/2026/prototype-1/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
 
 [[redirects]]
 from = "/organisations/lily-latifi/index.html"
 to = "/fr/organisations/lily-latifi/"
+
+[[redirects]]
+from = "/fr/programme/2026/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique/index.html"
+to = "/fr/editions/2026/prototype-1/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique/"
 
 [[redirects]]
 from = "/fr/programme/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/index.html"
@@ -217,6 +253,10 @@ to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-hum
 [[redirects]]
 from = "/organisations/categories/exposant-prototypes/index.html"
 to = "/fr/organisations/categories/exposant-prototypes/"
+
+[[redirects]]
+from = "/fr/editions/2026/contrats-les-reflexes-pour-proteger-votre-savoir-faire/index.html"
+to = "/fr/editions/2026/prototype-1/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
 
 [[redirects]]
 from = "/un-lieu-symbolique/index.html"
@@ -255,6 +295,10 @@ from = "/organisations/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
 [[redirects]]
+from = "/fr/editions/2026/du-prototype-au-marche-comment-croitre-sans-se-renier/index.html"
+to = "/fr/editions/2026/prototype-1/du-prototype-au-marche-comment-croitre-sans-se-renier/"
+
+[[redirects]]
 from = "/organisations/campus-versailles/index.html"
 to = "/fr/organisations/campus-versailles/"
 
@@ -263,8 +307,16 @@ from = "/expositions/index.html"
 to = "/fr/expositions/"
 
 [[redirects]]
+from = "/fr/editions/2026/les-manufactures-nationales-la-tradition-de-linnovation/index.html"
+to = "/fr/editions/2026/prototype-1/les-manufactures-nationales-la-tradition-de-linnovation/"
+
+[[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/editions/2026/biomimetisme-et-economie-de-matiere-une-nouvelle-cartographie-du-design-a-travers-ta-tamu/index.html"
+to = "/fr/editions/2026/prototype-1/biomimetisme-et-economie-de-matiere-une-nouvelle-cartographie-du-design-a-travers-ta-tamu/"
 
 [[redirects]]
 from = "/fr/editions/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/index.html"
@@ -279,12 +331,32 @@ from = "/fr/editions/2026/designer-la-ville-tisser-les-liens-entre-humains-terri
 to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
 
 [[redirects]]
+from = "/fr/programme/2026/biomimetisme-et-economie-de-matiere-une-nouvelle-cartographie-du-design-a-travers-ta-tamu/index.html"
+to = "/fr/editions/2026/prototype-1/biomimetisme-et-economie-de-matiere-une-nouvelle-cartographie-du-design-a-travers-ta-tamu/"
+
+[[redirects]]
 from = "/exposants/index.html"
 to = "/fr/exposants/"
 
 [[redirects]]
 from = "/organisations/gainerie-91/index.html"
 to = "/fr/organisations/gainerie-91/"
+
+[[redirects]]
+from = "/fr/editions/2026/les-epv-innovantes-comment-materialiser-la-recherche/index.html"
+to = "/fr/editions/2026/prototype-1/les-epv-innovantes-comment-materialiser-la-recherche/"
+
+[[redirects]]
+from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques/index.html"
+to = "/fr/editions/2026/prototype-1/campus-versailles-prototypes-pedagogiques/"
+
+[[redirects]]
+from = "/fr/programme/2026/contrats-les-reflexes-pour-proteger-votre-savoir-faire/index.html"
+to = "/fr/editions/2026/prototype-1/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
+
+[[redirects]]
+from = "/fr/editions/2026/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique/index.html"
+to = "/fr/editions/2026/prototype-1/propriete-intellectuelle-transformer-un-savoir-faire-en-actif-strategique/"
 
 [[redirects]]
 from = "/fr/organisations/atelier-lumierrante/index.html"
@@ -299,6 +371,10 @@ from = "/organisations/odp/index.html"
 to = "/fr/organisations/odp/"
 
 [[redirects]]
+from = "/fr/programme/2026/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie/index.html"
+to = "/fr/editions/2026/prototype-1/les-systemes-d-innovation-dans-les-savoir-faire-la-france-et-l-italie/"
+
+[[redirects]]
 from = "/programme/conferences/index.html"
 to = "/fr/editions/conferences/"
 
@@ -309,6 +385,10 @@ to = "/fr/a-propos/"
 [[redirects]]
 from = "/fr/programme/tables-rondes/index.html"
 to = "/fr/editions/tables-rondes/"
+
+[[redirects]]
+from = "/fr/programme/2026/les-epv-innovantes-comment-materialiser-la-recherche/index.html"
+to = "/fr/editions/2026/prototype-1/les-epv-innovantes-comment-materialiser-la-recherche/"
 
 [[redirects]]
 from = "/fr/programme/conferences/index.html"
