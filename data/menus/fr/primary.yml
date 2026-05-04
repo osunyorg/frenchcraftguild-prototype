@@ -10,13 +10,6 @@ items:
   descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Programme
-  slug: programme
-  target: "/fr/editions/2027/prototype-2/"
-  kind: url
-  new_tab: false
-  children: []
-  descendants_targets: []
 - title: Édition 2026
   slug: edition-2026
   target: "/fr/editions/2026/prototype-1/"
@@ -24,13 +17,11 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Concept
-  slug: concept
-  target: "/fr/concept/"
-  kind: page
+- title: Programme
+  slug: programme
+  target: "/fr/editions/2027/prototype-2/"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/concept"
-  file: content/fr/pages/concept/_index.html
 
