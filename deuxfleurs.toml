@@ -56,7 +56,7 @@ to = "/fr/programme/tables-rondes/"
 
 [[redirects]]
 from = "/agenda/index.html"
-to = "/fr/programme/"
+to = "/fr/editions/"
 
 [[redirects]]
 from = "/expositions/archives-expositions/index.html"
@@ -85,6 +85,10 @@ to = "/fr/programme/2026/debat-ethique-de-l-ia-dans-le-processus-creatif/"
 [[redirects]]
 from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques-1/index.html"
 to = "/fr/programme/2026/campus-mana-l-antichambre-des-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/programme/2026/prototype-1/index.html"
+to = "/fr/editions/2026/prototype-1/"
 
 [[redirects]]
 from = "/organisations/jauh/index.html"
@@ -139,6 +143,10 @@ from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
+from = "/fr/programme/2026/index.html"
+to = "/fr/editions/2026/"
+
+[[redirects]]
 from = "/organisations/societe-dencouragement-pour-lindustrie-nationale/index.html"
 to = "/fr/organisations/societe-dencouragement-pour-lindustrie-nationale/"
 
@@ -173,6 +181,10 @@ to = "/fr/programme/workshops/"
 [[redirects]]
 from = "/programme/workshops/index.html"
 to = "/fr/programme/workshops/"
+
+[[redirects]]
+from = "/fr/programme/index.html"
+to = "/fr/editions/"
 
 [[redirects]]
 from = "/plan-du-site/index.html"
@@ -225,6 +237,10 @@ to = "/fr/programme/conferences/"
 [[redirects]]
 from = "/a-propos/index.html"
 to = "/fr/a-propos/"
+
+[[redirects]]
+from = "/fr/programme/2026/02/index.html"
+to = "/fr/editions/2026/02/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
