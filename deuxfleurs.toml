@@ -307,6 +307,14 @@ from = "/expositions/index.html"
 to = "/fr/expositions/"
 
 [[redirects]]
+from = "/programme/index.html"
+to = "/fr/catalogue-prototype-1/"
+
+[[redirects]]
+from = "/fr/catalogue-prtototype-1/index.html"
+to = "/fr/catalogue-prototype-1/"
+
+[[redirects]]
 from = "/fr/editions/2026/les-manufactures-nationales-la-tradition-de-linnovation/index.html"
 to = "/fr/editions/2026/prototype-1/les-manufactures-nationales-la-tradition-de-linnovation/"
 
