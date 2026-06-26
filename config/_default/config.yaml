@@ -19,6 +19,11 @@ params:
   events:
     index:
       per_page: 36
+  organizations:
+    single:
+      meta:
+        options:
+          taxonomies: false
   share_links:
     enabled: true
     email: true
