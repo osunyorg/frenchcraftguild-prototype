@@ -359,6 +359,10 @@ from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques/index.html"
 to = "/fr/editions/2026/prototype-1/campus-versailles-prototypes-pedagogiques/"
 
 [[redirects]]
+from = "/fr/projets/2025-vase-silhouette-1/index.html"
+to = "/fr/projets/2025-vase-silhouette/"
+
+[[redirects]]
 from = "/fr/programme/2026/contrats-les-reflexes-pour-proteger-votre-savoir-faire/index.html"
 to = "/fr/editions/2026/prototype-1/contrats-les-reflexes-pour-proteger-votre-savoir-faire/"
 
