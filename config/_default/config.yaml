@@ -24,6 +24,7 @@ params:
       meta:
         options:
           taxonomies: false
+      backlinks: true
   share_links:
     enabled: true
     email: true
