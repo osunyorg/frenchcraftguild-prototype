@@ -11,7 +11,7 @@ params:
   search:
     active: true
   logo:
-    header: '/assets/images/logo-blanc.svg'
+    header: '/assets/images/logo.svg'
     footer: '/assets/images/logo-french-craft.svg'
   home:
     head:

@@ -1,20 +1,24 @@
 header#document-header
     .search-button
         color: inherit !important
+    @include media-breakpoint-down(desktop)
+        .logo
+            img
+                filter: invert(1)
 .hero
-    background-image: url(/assets/images/background-small.png)
-    background-size: 300px
+    background-image: url(/assets/images/background.jpg)
+    background-size: 200px
     background-repeat: no-repeat
-    background-position: -50px 0px
+    background-position: -40px -40px
     @include media-breakpoint-up(desktop)
         background-size: 600px
-        background-position: 54% -100px
+        background-position: 100% 0
 
 .hero
     .content
         h1
             > span
-                color: $color-dark-grey
+                color: $color-text-alt
 .event .event-categories,
 .taxonomies-single
         a
