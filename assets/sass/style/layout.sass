@@ -1,6 +1,12 @@
 header#document-header
     .search-button
         color: inherit !important
+    @include media-breakpoint-up(desktop)
+        .primary-menu
+            > .container
+                justify-content: start
+                #navigation
+                    margin-left: $spacing-5
     @include media-breakpoint-down(desktop)
         .logo
             img
