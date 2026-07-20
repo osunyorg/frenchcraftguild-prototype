@@ -11,13 +11,14 @@ header#document-header
         .logo
             img
                 filter: invert(1)
-.hero
+
+.hero:not(.hero--with-image)
     background-image: url(/assets/images/background.jpg)
     background-size: 200px
     background-repeat: no-repeat
     background-position: -40px -40px
     @include media-breakpoint-up(desktop)
-        background-size: 600px
+        background-size: 520px
         background-position: 100% 0
 
 .hero
