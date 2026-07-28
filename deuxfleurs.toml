@@ -99,6 +99,10 @@ from = "/organisations/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
+from = "/en/projects/2025-papier-peint-rayonnant/index.html"
+to = "/en/projects/2025-radiant-wallpaper/"
+
+[[redirects]]
 from = "/fr/editions/2026/cima-aider-l-excellence-artisanale/index.html"
 to = "/fr/editions/2026/prototype-1/cima-aider-l-excellence-artisanale/"
 
@@ -429,6 +433,10 @@ to = "/fr/editions/2026/02/"
 [[redirects]]
 from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/en/projects/2025-vase-silhouette/index.html"
+to = "/en/projects/2025-silhouette-vase/"
 
 [[redirects]]
 from = "/en/projects/2026-calice-et-patene-du-chapitre-de-notre-dame-de-paris/index.html"
