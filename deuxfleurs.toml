@@ -307,6 +307,10 @@ from = "/organisations/campus-versailles/index.html"
 to = "/fr/organisations/campus-versailles/"
 
 [[redirects]]
+from = "/en/projects/2020-glass-weaving-art-material/index.html"
+to = "/en/projects/2020-glass-weaving/"
+
+[[redirects]]
 from = "/expositions/index.html"
 to = "/fr/expositions/"
 
