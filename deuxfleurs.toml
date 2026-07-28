@@ -419,12 +419,20 @@ from = "/fr/programme/conferences/index.html"
 to = "/fr/editions/conferences/"
 
 [[redirects]]
+from = "/en/projects/2026-mini-bubble-la-mobilite-du-feu/index.html"
+to = "/en/projects/2026-mini-bubble-fire-mobility/"
+
+[[redirects]]
 from = "/fr/programme/2026/02/index.html"
 to = "/fr/editions/2026/02/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/en/projects/2026-calice-et-patene-du-chapitre-de-notre-dame-de-paris/index.html"
+to = "/en/projects/2026-chalice-and-paten-of-the-chapter-of-notre-dame-de-paris/"
 
 [[redirects]]
 from = "/organisations/milodina/index.html"
