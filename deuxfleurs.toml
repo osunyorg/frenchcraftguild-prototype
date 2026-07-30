@@ -79,6 +79,10 @@ from = "/fr/programme/2026/10/index.html"
 to = "/fr/editions/2026/10/"
 
 [[redirects]]
+from = "/en/projects/2025-tables-basses-etoile-astral/index.html"
+to = "/en/projects/2025-star-astral-coffee-tables/"
+
+[[redirects]]
 from = "/agenda/index.html"
 to = "/fr/editions/"
 
