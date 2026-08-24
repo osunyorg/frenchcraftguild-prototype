@@ -307,6 +307,10 @@ from = "/fr/programme/2026/11/index.html"
 to = "/fr/editions/2026/11/"
 
 [[redirects]]
+from = "/fr/projets/2026-agora/index.html"
+to = "/fr/projets/2026-collection-yaga/"
+
+[[redirects]]
 from = "/organisations/caroline-besse/index.html"
 to = "/fr/organisations/caroline-besse/"
 
