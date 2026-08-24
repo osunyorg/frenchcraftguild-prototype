@@ -27,6 +27,10 @@ from = "/organisations/categories/membres/index.html"
 to = "/fr/organisations/categories/membres/"
 
 [[redirects]]
+from = "/en/projects/2024-jardins-suspendus/index.html"
+to = "/en/projects/2024-hanging-gardens/"
+
+[[redirects]]
 from = "/en/organizations/atelier-steven-leprize-arca/index.html"
 to = "/en/organizations/atelier-steven-leprize/"
 
