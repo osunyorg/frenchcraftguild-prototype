@@ -91,6 +91,10 @@ from = "/agenda/index.html"
 to = "/fr/editions/"
 
 [[redirects]]
+from = "/fr/projets/2026-chronolithique-ii/index.html"
+to = "/fr/projets/2026-chronolithique-ll/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/fr/expositions/archives-expositions/"
 
@@ -433,6 +437,10 @@ to = "/fr/a-propos/"
 [[redirects]]
 from = "/fr/programme/tables-rondes/index.html"
 to = "/fr/editions/tables-rondes/"
+
+[[redirects]]
+from = "/en/projects/2026-chronolithique-ii/index.html"
+to = "/en/projects/2026-chronolithique-ll/"
 
 [[redirects]]
 from = "/fr/programme/2026/les-epv-innovantes-comment-materialiser-la-recherche/index.html"
