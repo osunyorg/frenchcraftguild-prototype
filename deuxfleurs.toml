@@ -79,6 +79,10 @@ from = "/programme/tables-rondes/index.html"
 to = "/fr/editions/tables-rondes/"
 
 [[redirects]]
+from = "/en/projects/2026-lampe-revolution/index.html"
+to = "/en/projects/2026-revolution-lamp/"
+
+[[redirects]]
 from = "/fr/programme/2026/10/index.html"
 to = "/fr/editions/2026/10/"
 
@@ -307,6 +311,10 @@ from = "/fr/programme/index.html"
 to = "/fr/editions/"
 
 [[redirects]]
+from = "/en/projects/2025-lampe-f/index.html"
+to = "/en/projects/2025-f-lamp/"
+
+[[redirects]]
 from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
@@ -445,6 +453,10 @@ to = "/en/projects/2026-chronolithique-ll/"
 [[redirects]]
 from = "/fr/programme/2026/les-epv-innovantes-comment-materialiser-la-recherche/index.html"
 to = "/fr/editions/2026/prototype-1/les-epv-innovantes-comment-materialiser-la-recherche/"
+
+[[redirects]]
+from = "/en/projects/2026-table-hono/index.html"
+to = "/en/projects/2026-hono-table/"
 
 [[redirects]]
 from = "/fr/programme/conferences/index.html"
