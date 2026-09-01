@@ -147,6 +147,10 @@ from = "/fr/programme/2026/campus-versailles-prototypes-pedagogiques-1/index.htm
 to = "/fr/editions/2026/prototype-1/campus-mana-l-antichambre-des-metiers-d-art/"
 
 [[redirects]]
+from = "/en/2026/index.html"
+to = "/en/2026/tf-urban-collection-upcyclee-fauteuil-re-bau-web2pdf/"
+
+[[redirects]]
 from = "/en/projects/2025-phykotex-anais-jarnoux-samuel-tomatis/index.html"
 to = "/en/projects/2025-phykotex/"
 
@@ -385,6 +389,10 @@ to = "/fr/organisations/reseau-excellence-epv/"
 [[redirects]]
 from = "/fr/editions/2026/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/index.html"
 to = "/fr/editions/2026/prototype-1/designer-la-ville-tisser-les-liens-entre-humains-territoires-et-savoir-faire/"
+
+[[redirects]]
+from = "/fr/fichiers/2026/index.html"
+to = "/fr/fichiers/2026/candidature--prototype-2docx-1/"
 
 [[redirects]]
 from = "/fr/programme/2026/biomimetisme-et-economie-de-matiere-une-nouvelle-cartographie-du-design-a-travers-ta-tamu/index.html"
